@@ -1,3 +1,4 @@
 init
 
-feature1 part1 part2
+
+feature1 part1 part2 part3
